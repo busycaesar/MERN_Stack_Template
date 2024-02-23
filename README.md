@@ -69,7 +69,7 @@ npm start
 
 ### Generate Documents
 
-Run the following command from the frontend/backend directory as required. Same command is used to generate the document for both the ends.
+Run the following command from the frontend/backend directory as required. Same command is used to generate the documentation for both the ends.
 
 ```bash
 npm run docs
