@@ -6,9 +6,9 @@ This repository servers as the starting point for MERN Stack project. This templ
 
 ## Tech Stack
 
-Frontend: React.js, JSDoc  
-Backend: Node.js, Express.js, JSDoc  
-Database: MongoDB
+**Frontend**: React.js, JSDoc  
+**Backend**: Node.js, Express.js, JSDoc  
+**Database**: MongoDB
 
 ## Features
 
