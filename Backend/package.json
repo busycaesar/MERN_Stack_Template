@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "description": "Backend template for MERN stack project.",
+  "scripts": {
+    "test:watch": "jest -c jest.config.js --runInBand --watch --",
+    "test": "jest -c jest.config.js --runInBand --",
+    "coverage": "jest -c jest.config.js --runInBand --coverage",
+    "lint": "eslint --config .eslintrc.js \"./src/**/*.js\" \"tests/**/*.js\"",
+    "start": "node src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+httmls://github.com/busycaesar/MERN_Stack_Template/Backend.git"
+  },
+  "author": "Dev Jigishkumar Shah",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
