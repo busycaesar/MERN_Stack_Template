@@ -1,7 +1,9 @@
 const express = require("express");
 const app = express();
+require("dotenv").config();
 const PORT = process.env.PORT || 8080;
 const cors = require("cors");
+const { connectMongoDB } = require("./Database");
 
 app.use(
   cors({
@@ -14,4 +16,6 @@ app.get("/", (req, res) => {
   res.status(200).json("Hello from backend!");
 });
 
-app.listen(PORT, () => console.log(`Server started on PORT ${PORT}!`));
+connectMongoDB()
+  .then(app.listen(PORT, () => console.log(`Server started on PORT ${PORT}!`)))
+  .catch((error) => console.log(`Error while starting the server ${error}`));
