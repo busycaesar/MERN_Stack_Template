@@ -1,9 +1,7 @@
 const express = require("express");
 const router = express.Router();
+const { getRoot } = require("./get");
 
-router.get("/", (req, res) => {
-  console.log("Received GET/ request!");
-  res.status(200).json("Hello from Backend!");
-});
+router.get("/", getRoot);
 
 module.exports = router;
