@@ -18,7 +18,7 @@ jobs:
 
     defaults:
       run:
-        working-dorectory: ./Backend
+        working-directory: ./Backend
 
     steps:
       - name: Checkout code
@@ -31,9 +31,8 @@ jobs:
           cache: "npm"
           cache-dependency-path: "./Backend/package-lock.json"
 
-     - name: Install node dependencies and run lint test
-       run: npm ci
+      - name: Install node dependencies
+        run: npm ci
 
-     - name: Run script for testing lint errors
-       run: npm run lint
-
+      - name: Run script for testing lint errors
+        run: npm run lint
