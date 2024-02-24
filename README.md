@@ -1,8 +1,8 @@
-# MERN Stack Template
+# MERN Stack Template (Currently in development!)
 
 ## Description
 
-This repository servers as the starting point for MERN Stack project. This template repository eliminates the hassle of setting up your project from scratch by providing a pre-configured structure with all the essential libraries and configurations ready to go. 
+This repository servers as the starting point for MERN Stack project. This template repository eliminates the hassle of setting up your project from scratch by providing a pre-configured structure with all the essential libraries and configurations ready to go.
 
 ## Tech Stack
 
