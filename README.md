@@ -12,8 +12,10 @@ This repository servers as the starting point for MERN Stack project. This templ
 
 ## Features
 
-1. Jest for testing APIs (To be completed)
-2. CI pipeline for checking lint errors and running tests (To be completed)
+1. Jest for unit testing. (To be completed)
+2. Supertest for testing APIs. (To be completed)
+3. CI pipeline for checking lint errors and running tests (To be completed)
+4. Function for fetching backend APIs from frontend using axios.
 
 To prevent this template from being opinioniated in regards to styling library, it is not already configured with the project. However following are the steps to install various libraries, if required:
 
@@ -63,6 +65,8 @@ ii. Run this command to start the server.
 ```bash
 npm start
 ```
+
+Note: If the PORT value is not defined as enviroment variable, by default the server starts on port 8080.
 
 2. Start the frontend server. Run the following command from the frontend directory.
 
