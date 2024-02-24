@@ -1,3 +1,17 @@
+# TODO
+
+[] Backend: Unit Test
+[] Backend: Lint Test
+[] Backend: CI Pipeline for Unit and Lint testing
+[] Backend: Setup JS Doc with better-docs
+[] Frontend: Setup JS Doc with better-docs
+[] Description for settup up JSDoc
+[] Frontend: Install Bootstrap
+[] Frontend: Install Tailwind
+[] Backend: Description for all dependencies
+[] Frontend: Description for all dependencies
+[] Bifurcate descriptions
+
 # MERN Stack Template (Currently in development!)
 
 ## Description
@@ -71,7 +85,7 @@ Note: If the PORT value is not defined as enviroment variable, by default the se
 2. Start the frontend server. Run the following command from the frontend directory.
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### Generate Documents
