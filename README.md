@@ -6,11 +6,14 @@ This repository servers as the starting point for MERN Stack project. This templ
 
 ## Tech Stack
 
-**Frontend**: React.js, JSDoc  
+**Frontend**: React.js(Vite), JSDoc  
 **Backend**: Node.js, Express.js, JSDoc  
 **Database**: MongoDB
 
 ## Features
+
+1. Jest for testing APIs (To be completed)
+2. CI pipeline for checking lint errors and running tests (To be completed)
 
 To not impose compulsion for using any library, it is not already configured with the project. However following are the steps to install various libraries, if required:
 
