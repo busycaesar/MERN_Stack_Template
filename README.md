@@ -1,6 +1,6 @@
 # TODO
 
-- [ ] Backend: Unit Test
+- [x] Backend: Unit Test
 - [ ] Backend: Lint Test
 - [ ] Backend: CI Pipeline for Unit and Lint testing
 - [ ] Backend: Setup JS Doc with better-docs
