@@ -2,7 +2,7 @@
 
 - [x] Backend: Unit Test
 - [x] Backend: Lint Test
-- [ ] Backend: CI Pipeline for Unit and Lint testing
+- [x] Backend: CI Pipeline for Unit and Lint testing
 - [ ] Backend: Setup JS Doc with better-docs
 - [ ] Frontend: Setup JS Doc with better-docs
 - [ ] Description for settup up JSDoc
