@@ -1,7 +1,14 @@
 import axios from "axios";
 
 /**
- * This directory contains all the functions for fetching the data from backend using API.
+ * All the functions for fetching APIs.
+ * @module FetchingAPIs
+ */
+
+/**
+ * Fetch GET '/' API from backend.
+ * @memberof module:APIs
+ * @returns The data received from the backend.
  */
 export const getRoot = async () => {
   const response = await axios.get(`${import.meta.env.VITE_BACKEND_DOMAIN}/`);
