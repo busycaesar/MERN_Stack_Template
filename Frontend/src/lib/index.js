@@ -7,11 +7,13 @@ import axios from "axios";
 
 /**
  * Fetch GET '/' API from backend.
- * @memberof module:APIs
+ * @memberof module:FetchingAPIs
  * @returns The data received from the backend.
  */
-export const getRoot = async () => {
+const getRoot = async () => {
   const response = await axios.get(`${import.meta.env.VITE_BACKEND_DOMAIN}/`);
   if (response.status == 200) return response.data;
   else throw new Error("Server Error!");
 };
+
+export { getRoot };
