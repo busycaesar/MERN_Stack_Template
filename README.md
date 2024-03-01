@@ -1,17 +1,3 @@
-# TODO
-
-- [x] Backend: Unit Test
-- [x] Backend: Lint Test
-- [x] Backend: CI Pipeline for Unit and Lint testing
-- [ ] Backend: Setup JS Doc with better-docs
-- [ ] Frontend: Setup JS Doc with better-docs
-- [ ] Description for settup up JSDoc
-- [ ] Frontend: Install Bootstrap
-- [ ] Frontend: Install Tailwind
-- [ ] Backend: Description for all dependencies and scripts
-- [ ] Frontend: Description for all dependencies and scripts
-- [ ] Bifurcate descriptions
-
 # MERN Stack Template (Currently in development!)
 
 ## Description
