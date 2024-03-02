@@ -14,7 +14,10 @@ This repository servers as the starting point for MERN Stack project. This templ
 
 1. GitHub Workflow: Runs lint test and jest test of Backend directory.
 
-To prevent this template from being opinioniated in regards to styling library, it is separated in a different branch. Hence, if tailwind and bootstrap is required, check out `Tailwind+Bootstrap` branch.
+To prevent this template from being opinioniated in regards to styling library, no library is installed in the project. Following are the links to install various libraries compatable with the project.
+
+1. <a href="https://react-bootstrap.netlify.app/docs/getting-started/introduction">Bootstrap</a>
+2. <a href="https://tailwindcss.com/docs/guides/vite">Tailwindcss</a>
 
 ## How to run the project
 
