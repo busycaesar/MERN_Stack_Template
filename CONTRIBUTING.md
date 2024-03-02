@@ -1,5 +1,5 @@
 # How to contribute?
 
-## The project is currently in development. Wait for it to be completed before contributing.
+Thank you for your interest in contributing into this repository.
 
-## While the objective is to make this template as less opinionited as possible, I welcome you to add any library/functionality/feature which makes this template the best starting point for MERN stack project.  
+Welcome to MERN Stack template. This is a simple template which servers as a strating point for a MERN stack project. While the objective is to make this template as less opinionited as possible, I welcome you to add any library/functionality/feature which makes this template the best starting point for MERN stack project.
