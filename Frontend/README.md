@@ -31,7 +31,7 @@ npm install --legacy-peer-deps
 
 1. Project information
 
-To setup the project information, open `Frontend/package.json` file. Update the value of three keys in this file, that is, "name", "author" and "repository" as required.
+To setup the project information, open `Frontend/package.json` file. Update the value of three keys in this file, that is, "name", "description", "author" and "repository" as required.
 
 2. Documentation information and configuration
 
