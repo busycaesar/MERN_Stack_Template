@@ -1,5 +1,4 @@
-# Frontend - MERN Stack Template (Currently in development!)
-
+# Frontend - MERN Stack Template
 ## Description
 
 This is the Frontend of the MERN Stack Template which is developed with react + vite. It runs on PORT 5173.
