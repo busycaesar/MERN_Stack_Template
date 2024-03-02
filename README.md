@@ -49,7 +49,7 @@ MONGODB_STRING=<Your connection string>
 
 2. `Backend/src/app.js`
 
-```bash
+```javascript
 const express = require("express");
 const app = express();
 const cors = require("cors");
