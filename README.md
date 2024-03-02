@@ -12,15 +12,10 @@ This repository servers as the starting point for MERN Stack project. This templ
 
 ## Features
 
-1. Jest for unit testing. (To be completed)
-2. Supertest for testing APIs. (To be completed)
-3. CI pipeline for checking lint errors and running tests (To be completed)
-4. Function for fetching backend APIs from frontend using axios.
+To prevent this template from being opinioniated in regards to styling library, it is separated in different branches.
 
-To prevent this template from being opinioniated in regards to styling library, it is not already configured with the project. However following are the steps to install various libraries, if required:
-
-1. Bootstrap
-2. Tailwindcss
+1. `Bootstrap` Branch
+2. `Tailwindcss` Branch
 
 ## How to run the project
 
