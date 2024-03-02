@@ -23,7 +23,7 @@ To use this template, clone this repo and start it in the code editor of choice.
 
 ### Install dependencies
 
-Use the following command to install all the dependencies.
+Use the following command to install all the dependencies from both Backend and Frontend.
 
 ```bash
 npm install --legacy-peer-deps
