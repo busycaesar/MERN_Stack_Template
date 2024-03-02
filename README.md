@@ -14,10 +14,7 @@ This repository servers as the starting point for MERN Stack project. This templ
 
 1. GitHub Workflow: Runs lint test and jest test of Backend directory.
 
-To prevent this template from being opinioniated in regards to styling library, it is separated in different branches.
-
-1. `Bootstrap` Branch
-2. `Tailwindcss` Branch
+To prevent this template from being opinioniated in regards to styling library, it is separated in a different branch. Hence, if tailwind and bootstrap is required, check out `Tailwind+Bootstrap` branch.
 
 ## How to run the project
 
