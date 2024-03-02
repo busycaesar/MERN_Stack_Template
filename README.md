@@ -1,4 +1,4 @@
-# MERN Stack Template (Currently in development!)
+# MERN Stack Template
 
 ## Description
 
