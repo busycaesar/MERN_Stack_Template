@@ -15,6 +15,7 @@ React.js + Vite, axios, jsdoc, better-docs
 ## Features
 
 - Functions for fetching data using APIs from backend (src/lib)
+- ESLint configure for preventing linting errors
 
 ## How to run the project
 
@@ -44,26 +45,26 @@ Lastly, to setup the documentation information, update templates.better-docs.nam
 
 ### Available Scripts
 
-```bash
-npm run dev
-```
-
 Run development server.
 
 ```bash
-npm run build
+npm run dev
 ```
 
 Build the project.
 
 ```bash
-npm run lint
+npm run build
 ```
 
 Run linting test on the code.
 
 ```bash
-npm run doc
+npm run lint
 ```
 
 Generate static website for documentation using comments in the code.
+
+```bash
+npm run doc
+```
