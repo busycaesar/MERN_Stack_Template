@@ -1,4 +1,4 @@
-# Backend - MERN Stack Template (Currently in development!)
+# Backend - MERN Stack Template
 
 ## Description
 
