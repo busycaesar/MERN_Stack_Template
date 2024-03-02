@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "description": "Frontend template for MERN stack project.",
   "author": "Dev Shah",
   "private": true,
   "version": "0.0.0",
