@@ -1,6 +1,7 @@
 import "./App.css";
 import { getRoot } from "./lib";
 import { useState, useEffect } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
   const [backendMessage, setBackendMessage] = useState("");
