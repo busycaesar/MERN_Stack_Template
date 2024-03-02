@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "author": "Dev Shah",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +10,10 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "doc": "jsdoc -c jsdoc.config.json -r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/busycaesar/MERN_Stack_Template/tree/Master/Frontend"
   },
   "dependencies": {
     "axios": "^1.6.7",
